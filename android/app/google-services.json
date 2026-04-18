@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958112617152",
+    "project_id": "socpet-c7761",
+    "storage_bucket": "socpet-c7761.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958112617152:android:8964c3e8e4ef921c195325",
+        "android_client_info": {
+          "package_name": "com.example.socpet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqsBckLdp3HZstXYm2RiGyD10rBxJGS2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
